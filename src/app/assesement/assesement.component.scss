@@ -1,0 +1,37 @@
+@import '../../styles.scss';
+
+.form-input {
+    border: 1px solid $color-grey;
+    min-width: 10em;
+  }
+  .btn-report {
+    min-width: 10em;
+  }
+  .lbl-form {
+    white-space: nowrap;
+  }
+  .header-container {
+    background-color: $color-background-blue;
+    min-height: 32px;
+  }
+  
+  .container-main {
+    width: 50%;
+    border: 1px solid $color-background-blue;
+    padding-bottom: 1em;
+  }
+  .txt-danger {
+    color: $txt-danger;
+  }
+  .btn-greyed-Out {
+    border: 1px solid $color-btn-solid;
+    background-color: $color-btn-background;
+    color: $color-btn;
+  }
+  
+  .text-assesment{
+      color: $color-white;
+      font-size: 16px;
+      font-weight: 600;
+  }
+  
